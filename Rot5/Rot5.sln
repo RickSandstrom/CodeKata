@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rot5", "Rot5\Rot5.csproj", "{C3087D6E-7DED-4DB9-9230-EB88933298BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rot5Tests", "Rot5Tests\Rot5Tests.csproj", "{CAB08F57-90FB-4462-9F1D-DFD3BA5C138D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3087D6E-7DED-4DB9-9230-EB88933298BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3087D6E-7DED-4DB9-9230-EB88933298BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3087D6E-7DED-4DB9-9230-EB88933298BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3087D6E-7DED-4DB9-9230-EB88933298BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAB08F57-90FB-4462-9F1D-DFD3BA5C138D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAB08F57-90FB-4462-9F1D-DFD3BA5C138D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAB08F57-90FB-4462-9F1D-DFD3BA5C138D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAB08F57-90FB-4462-9F1D-DFD3BA5C138D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3017228-5B5E-4DB2-93CE-87D8CD9CB9B6}
+	EndGlobalSection
+EndGlobal
